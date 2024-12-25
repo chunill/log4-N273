@@ -1,0 +1,56 @@
+baseurl: "localhost"
+title: "N273"
+languageCode: "zh-tw"
+theme: "hello-friend-ng"
+paginate: 10
+
+params:
+  dateform: "Jan 2, 2006"
+  dateformShort: "Jan 2"
+  dateformNum: "2006-01-02"
+  dateformNumTime: "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle: "log4"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts: false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons: true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu: false
+
+  # Metadata mostly used in document's head
+  description: "N273的小天地"
+  keywords: "homepage, blog"
+  images: []
+
+taxonomies:
+  category: "blog"
+  tag: "tags"
+  series: "series"
+
+languages:
+  en:
+    params:
+      logo: 
+        logoText: "N273"
+
+menu:
+  main:
+    - identifier: "post"
+      name: "post"
+      url: "/posts"
+    - identifier: "about"
+      name: "About"
+      url: "/about"
+    - identifier: "cp"
+      name: "CP"
+      url: "/CP"
+      weight: 10
+      children:
+        - identifier: "MoonSun"
+          name: "月日組"
+          url: "/CP/MoonSun"

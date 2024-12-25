@@ -1,0 +1,19 @@
+# Hugo 生成的檔案
+public/
+resources/
+
+# 靜態檔案編譯的結果
+static/css/
+static/js/
+static/fonts/
+
+# 資料檔案
+data/
+
+# 國際化資料
+i18n/
+
+# 開發過程中生成的臨時檔案
+*.log
+*.bak
+*.swp
