@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 歡迎來到神許諾的光明世界</title>
-    <link>http://localhost:8000/tags/</link>
+    <link>https://chunill.github.io/log4-N273/tags/</link>
     <description>Recent content in Tags on 歡迎來到神許諾的光明世界</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Dec 2024 18:00:24 +0800</lastBuildDate>
-    <atom:link href="http://localhost:8000/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chunill.github.io/log4-N273/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Untagged</title>
-      <link>http://localhost:8000/tags/untagged/</link>
+      <link>https://chunill.github.io/log4-N273/tags/untagged/</link>
       <pubDate>Wed, 25 Dec 2024 18:00:24 +0800</pubDate>
-      <guid>http://localhost:8000/tags/untagged/</guid>
+      <guid>https://chunill.github.io/log4-N273/tags/untagged/</guid>
       <description></description>
     </item>
   </channel>
