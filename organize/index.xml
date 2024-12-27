@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organizes on 歡迎來到神許諾的光明世界</title>
-    <link>localhost/organize/</link>
+    <link>http://localhost:8000/organize/</link>
     <description>Recent content in Organizes on 歡迎來到神許諾的光明世界</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 26 Dec 2024 21:52:01 +0800</lastBuildDate>
-    <atom:link href="localhost/organize/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:8000/organize/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【LG國家實驗室】設定集</title>
-      <link>localhost/organize/lg/</link>
+      <link>http://localhost:8000/organize/lg/</link>
       <pubDate>Thu, 26 Dec 2024 21:52:01 +0800</pubDate>
-      <guid>localhost/organize/lg/</guid>
+      <guid>http://localhost:8000/organize/lg/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;LG國家祕密計畫實驗中心 —— Laboratory Generation&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;他們奉行以科學開闢新世界的道路在世代的前端進行研究的使命&#34;&gt;&lt;em&gt;「他們奉行以科學開闢新世界的道路，在世代的前端進行研究的使命。」&lt;/em&gt;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;實驗中心簡介&#34;&gt;&lt;strong&gt;實驗中心簡介&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;br&gt;&#xA;國家級的秘密實驗中心，對外是普通的國營研究機構，實際上負責一些無法對外公開的暗面研究，危險物質、生化武器、人體實驗等都是LG負責的範疇。&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;下分為：&lt;ul style=&#34;list-style: none; margin: 0; padding: 0;&#34;&gt;&lt;/p&gt;&#xA;  &lt;li style=&#34;color: #9a57d3; display: inline; margin-right: 1rem;&#34;&gt;研發部門&lt;/li&gt;&#xA;  &lt;li style=&#34;color: #32CD32; display: inline; margin-right: 1rem;&#34;&gt;生物科技部門&lt;/li&gt;&#xA;  &lt;li style=&#34;color: #1E90FF; display: inline; margin-right: 1rem;&#34;&gt;兵器部門&lt;/li&gt;&#xA;  &lt;li style=&#34;color: orange; display: inline; margin-right: 1rem;&#34;&gt;輻能應用部門&lt;/li&gt;&#xA;  &lt;li style=&#34;color: pink; display: inline;&#34;&gt;醫療部門&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;各個部門並非獨立行事，而是彼此合作、相輔相成，並時常共同實行國家發配的研究任務。&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;div style=&#34;margin-left: 0em;&#34;&gt;&#xD;&#xA;  &lt;details&gt;&#xD;&#xA;    &lt;summary style=&#34;color: write;&#34;&gt;&#xD;&#xA;      管理階層&#xD;&#xA;    &lt;/summary&gt;&#xD;&#xA;    &lt;div style=&#34;margin-left: 2em; white-space: pre-wrap;&#34;&gt;功能：直接與政府交涉並下派實驗及其他任務，擁有命令與決議權&#xA;成員：寒鳴，磁&lt;/div&gt;&#xD;&#xA;  &lt;/details&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&#xA;&lt;div style=&#34;margin-left: 0em;&#34;&gt;&#xD;&#xA;  &lt;details&gt;&#xD;&#xA;    &lt;summary style=&#34;color: #9a57d3;&#34;&gt;&#xD;&#xA;      研發部門&#xD;&#xA;    &lt;/summary&gt;&#xD;&#xA;    &lt;div style=&#34;margin-left: 2em; white-space: pre-wrap;&#34;&gt;功能：負責製作、研發其他部門所需工具及上市產品，也是對外推出成果的主要部門&#xA;成員：目前無&lt;/div&gt;&#xD;&#xA;  &lt;/details&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&#xA;&lt;div style=&#34;margin-left: 0em;&#34;&gt;&#xD;&#xA;  &lt;details&gt;&#xD;&#xA;    &lt;summary style=&#34;color: #32CD32;&#34;&gt;&#xD;&#xA;      生物科技部門&#xD;&#xA;    &lt;/summary&gt;&#xD;&#xA;    &lt;div style=&#34;margin-left: 2em; white-space: pre-wrap;&#34;&gt;成員：曹錦&lt;/div&gt;&#xD;&#xA;  &lt;/details&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&#xA;&lt;div style=&#34;margin-left: 0em;&#34;&gt;&#xD;&#xA;  &lt;details&gt;&#xD;&#xA;    &lt;summary style=&#34;color: #1E90FF;&#34;&gt;&#xD;&#xA;      兵器部門&#xD;&#xA;    &lt;/summary&gt;&#xD;&#xA;    &lt;div style=&#34;margin-left: 2em; white-space: pre-wrap;&#34;&gt;功能：負責研發攻擊、防禦性專武。涉及人體改造實驗，是最被看重、同時也是最為不人道的部門&#xA;成員：邦離，溫旭景，萩眠（已退出）&lt;/div&gt;&#xD;&#xA;  &lt;/details&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&#xA;&lt;div style=&#34;margin-left: 0em;&#34;&gt;&#xD;&#xA;  &lt;details&gt;&#xD;&#xA;    &lt;summary style=&#34;color: orange;&#34;&gt;&#xD;&#xA;      輻能應用部門&#xD;&#xA;    &lt;/summary&gt;&#xD;&#xA;    &lt;div style=&#34;margin-left: 2em; white-space: pre-wrap;&#34;&gt;&lt;p&gt;功能：將輻能相關能源轉換為可用資源，包括但不限於各種放射性物質相關研究&#xA;成員：崔顯&lt;/p&gt;</description>
     </item>
   </channel>
