@@ -1,0 +1,11 @@
+<div style="margin-left: {{ .Get "space" | default "0" }}em;">
+  <details>
+    <summary style="color: {{ .Get "color" | default "write" }};">
+      {{ .Get "title" }}
+    </summary>
+    <div style="margin-left: 2em; white-space: pre-wrap;">
+      {{- .Inner | markdownify -}}
+    </div>
+  </details>
+</div>
+<br>

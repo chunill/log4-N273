@@ -1,8 +1,9 @@
 baseurl: "localhost"
-title: "N273"
+title: "歡迎來到神許諾的光明世界"
 languageCode: "zh-tw"
 theme: "hello-friend-ng"
 paginate: 10
+
 
 params:
   dateform: "Jan 2, 2006"
@@ -27,6 +28,16 @@ params:
   keywords: "homepage, blog"
   images: []
 
+  social:
+    - name: "facebook"
+      url: "https://www.facebook.com/profile.php?id=100009436986492"
+    - name: "twitter"
+      url: "https://x.com/chunill7901"
+    - name: "plurk"
+      url: "https://www.plurk.com/yces980096"
+    - name: "github"
+      url: "https://github.com/chunill"
+
 taxonomies:
   category: "blog"
   tag: "tags"
@@ -40,17 +51,34 @@ languages:
 
 menu:
   main:
-    - identifier: "post"
-      name: "post"
-      url: "/posts"
+    # - identifier: "post"
+    #   name: "Post"
+    #   url: "/posts"
     - identifier: "about"
       name: "About"
       url: "/about"
+
     - identifier: "cp"
       name: "CP"
       url: "/CP"
-      weight: 10
-      children:
-        - identifier: "MoonSun"
-          name: "月日組"
-          url: "/CP/MoonSun"
+    # - identifier: "MoonSun"
+    #   parent: "cp"
+    #   name: "月日組"
+    #   url: "/CP/MoonSun"
+
+    - identifier: "organize"
+      name: "Organize"
+      url: "/organize"
+    - identifier: "LG"
+      name: "LG國家實驗室"
+      url: "/organize/lg"
+      parent: "organize"
+
+markup:
+  goldmark:
+    extensions:
+      hardLineBreak: true
+
+    renderer:
+      hardWrap: true
+      unsafe: true

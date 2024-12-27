@@ -84,6 +84,7 @@
 
 
 .submenu {
+  white-space: nowrap;
   background: $light-background-header;
 
   @media (prefers-color-scheme: dark) {
@@ -106,6 +107,7 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: inline;
     overflow: hidden;
   }
 
@@ -136,11 +138,11 @@
     }
   }
 
-  .dropdown-content a {
-    padding: 12px 20px;
+  .dropdown-content li a {
+    padding: 12px 24px;
     text-decoration: none;
-    display: block;
-    text-align: left;
+    display: inline-block;
+    // text-align: left;
   }
 
   .dropdown-content a:hover {

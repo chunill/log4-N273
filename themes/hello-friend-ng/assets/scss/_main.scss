@@ -433,3 +433,9 @@ hr {
 .highlight {
   margin: 30px auto;
 }
+
+.markdown-body {
+  white-space: pre-wrap;  /* 保留換行符號和空格 */
+  word-wrap: break-word;  /* 長單詞自動換行 */
+}
+
